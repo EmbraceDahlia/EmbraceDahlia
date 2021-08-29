@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dahlia.
 - 👀 I’m interested in everything that is trending.
-- 🌱 I’m currently learning something (a lot) I don't know before.
-- 💞️ I’m looking to collaborate on a simple but detailed project as my very first step.
+- 🌱 I’m currently learning anything (a lot) I don't know before.
+- 💞️ I’m looking to collaborate on a simple but a very useful and detailed project as my very first step.
 - 📫 Reach me at embracedahlia@gmail.com.
 
 <!---
